@@ -1,0 +1,35 @@
+body {
+    width: 900PX;
+    margin: auto;
+    background-color: aquamarine;
+    border: double;
+}
+
+h1{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+    padding: 15PX;
+}
+
+.menuSuperior{
+    font-size: x-large;
+}
+
+footer{
+    text-align: center;
+}
+
+img{
+   width: 90PX; 
+   height: 80PX;
+}
+
+img.alineadoTextoImagenCentro{
+  vertical-align: middle;
+  /* Ojo vertical-align: text-middle no existe*/
+}
